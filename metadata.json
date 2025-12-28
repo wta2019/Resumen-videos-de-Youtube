@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VideoMind AI",
+  "description": "An intelligent YouTube video assistant that generates summaries, reel scripts, and answers questions using Google Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
